@@ -1,0 +1,227 @@
+@CHARSET "ISO-8859-1";
+
+*
+{
+	margin: 0;
+	/*padding: 0;*/	
+}
+
+body
+{
+	font-family: sans-serif;
+}
+
+img.bg_img
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+}
+
+h1.main_h1
+{	
+	position: absolute;
+	top: 150px;
+	left: 180px;
+	color: #CA7F19;
+	text-shadow: #7C2925 4px -2px;
+}
+
+span.userName
+{
+	position: absolute;
+	top: 250px;
+	left: 300px;
+	color: #CA7F19;
+}
+
+span.pwd
+{
+	position: absolute;
+	top: 300px;
+	left: 300px;
+	color: #CA7F19;
+}
+
+input.submit
+{
+	position: absolute;
+	top: 360px;
+	left: 320px;
+	width: 100px;
+}
+
+button.reg_link
+{
+	position: absolute;
+	top: 95%;
+	left: 90%;
+	width: 100px;
+}
+
+a
+{
+	text-decoration: none;
+	color: #000000;
+}
+
+h1.register
+{
+	position: absolute;
+	top: 150px;
+	left: 265px;
+	color: #CA7F19;
+	text-shadow: #7C2925 4px -2px;
+}
+
+button.back_link
+{
+	position: absolute;
+	top: 95%;
+	left: 87%;
+}
+
+span.error
+{
+	position: absolute;
+	top: 250px;
+	left: 270px;
+	color: #CA7F19;
+}
+
+span.LoginError
+{
+	position: absolute;
+	top: 250px;
+	left: 250px;
+	color: #CA7F19;
+}
+
+button.back2reg
+{
+	position: absolute;
+	top: 300px;
+	left: 290px;
+}
+
+span.thanks
+{
+	position: absolute;
+	top: 250px;
+	left: 290px;
+	color: #CA7F19;
+}
+
+button.back_link_after_reg
+{
+	position: absolute;
+	top: 280px;
+	left: 305px;
+	color: #000000;	
+}
+
+button.logout
+{
+	position: absolute;
+	top: 95%;
+	left: 93%;
+}
+
+span.newChar
+{
+	position: absolute;
+	top: 200px;
+	left: 182px;
+	color: #CA7F19;
+}
+
+input.charNameInput
+{
+	position: absolute;
+	top: 230px;
+	left: 182px;
+	color: #000000;
+}
+
+input.charNameSubmit
+{
+	position: absolute;
+	top: 229px;
+	left: 340px;
+	float: left;
+	color: #000000;
+}
+
+span.addedCharsHead
+{
+	position: absolute;
+	top: 265px;
+	left: 182px;
+	color: #CA7F19;
+	text-decoration: underline;
+}
+
+div.charList
+{
+	position: absolute;
+	top: 305px;
+	left: 182px;
+	width: 210px;
+	background-color: #396C0D;
+}
+
+h3.bar
+{
+	cursor: pointer;
+	color: #FA8F19;
+	height: 30px;
+	border: 1px solid #CA7F19;
+	text-align: center;
+	text-shadow: #000000 1px -1px 2px;
+}
+
+h3.current
+{
+	background-color: #198C0D;
+}
+
+h3.ready
+{
+	background-color: #B40404;
+}
+
+.content
+{
+	background-color: #198C0D;
+	color: #FA8F19;
+	text-shadow: #000000 1px -1px 2px;
+	padding: 5px;
+}
+
+input.clearTime
+{
+	position: relative;
+	top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
